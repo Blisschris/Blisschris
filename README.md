@@ -14,7 +14,7 @@
 ---
 
 ## 📄 My Resume
-[[![View Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge)](https://bit.ly/ChrisLittleResume)](https://raw.githubusercontent.com/Blisschris/Resume/main/Christian%20Little%20Resume.pdf
+[[![View Resume](https://raw.githubusercontent.com/Blisschris/Resume/main/Christian%20Little%20Resume.pdf
 )
 
 ---
