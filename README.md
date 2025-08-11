@@ -26,10 +26,7 @@
 
 ## 📬 Connect with Me
 - 📧 **Email:** [blisschris9688@gmail.com](mailto:blisschris9688@gmail.com)  
-- 💼 **LinkedIn:** *(Add your LinkedIn link here)*  
-- 🐙 **GitHub:** [Blisschris](https://github.com/Blisschris)  
-
----
+- 💼 **LinkedIn:** *(https://www.linkedin.com/in/christian-little-455928260/)*  
 
 <!-- Optional GitHub Stats Section -->
 ![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blisschris&show_icons=true&theme=tokyonight)
