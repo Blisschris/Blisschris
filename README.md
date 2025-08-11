@@ -6,14 +6,14 @@
 ---
 
 ## 🚀 What I'm Working On
-- 📚 **IBM Data Science Professional Certificate** (Coursera) — `██████░░░░░░░░` **60% Complete**  
-  ![Progress](https://img.shields.io/badge/Coursera_Progress-60%25-blue?style=for-the-badge)  
+- 📚 **IBM Data Science Professional Certificate** (Coursera) — `███░░░░░░░` **30% Complete**  
+  ![Progress](https://img.shields.io/badge/Coursera_Progress-30%25-blue?style=for-the-badge)  
 - 🧠 Exploring advanced **machine learning** and **data visualization** techniques  
 - 🏗️ Building **interactive dashboards** and **automation scripts**  
 
 ---
 
-## 📄 My Resume
+## 📄 Download My Resume
 [[![View Resume](https://raw.githubusercontent.com/Blisschris/Resume/main/Christian%20Little%20Resume.pdf
 )
 
