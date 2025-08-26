@@ -7,7 +7,7 @@
 
 ## 🚀 What I'm Working On
 - 📚 **IBM Data Science Professional Certificate** (Coursera) — `███░░░░░░░` **33% Complete**  
-  ![Progress](https://img.shields.io/badge/Coursera_Progress-30%25-blue?style=for-the-badge)  
+  ![Progress](https://img.shields.io/badge/Coursera_Progress-33%25-blue?style=for-the-badge)  
 - 🧠 Exploring advanced **machine learning** and **data visualization** techniques  
 - 🏗️ Building **interactive dashboards** and **automation scripts**  
 
